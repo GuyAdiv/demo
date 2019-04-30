@@ -6,3 +6,4 @@ code for feature 1
 some updates in master
 
 add a
+add b
